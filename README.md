@@ -1,5 +1,5 @@
 <div align="center"> 
-  <a href="https://blog.ytadx.cn/"> 
+  <a href="https://ldlang.github.io/lin-note/"> 
     <img src="https://readme-typing-svg.herokuapp.com/?lines=学海无涯，苦乐自知。&center=true&size=27&repeat=false"> 
   </a> 
 </div>
